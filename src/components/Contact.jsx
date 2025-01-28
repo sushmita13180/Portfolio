@@ -5,7 +5,7 @@ function Contact() {
     <div name="Contact" className="max-w-screen-2xl  container mx-auto px-4 md:px-20  mt-10 md:mt-20">
     <h1 className="text-3xl font-bold">Contact Me</h1>
     <p className="font-medium mt-3">Please fill out the form below to contact me.</p>
-    <div className="bg-slate-300 rounded-lg w-[400px] mx-auto p-6 mt-6" >
+    <div className="bg-slate-300 rounded-lg w-[380px] mx-auto p-6 mt-6" >
       <h1 className="font-bold text-2xl pt-2 mb-4">Send Your Message</h1>
       <form action="https://getform.io/f/akkkokna" method="POST" className="flex flex-col gap-4">
    <div> <label htmlFor="name" className="font-medium" >Name</label><br />
