@@ -3,7 +3,9 @@ function About() {
   return (
     <div name="About" className="max-w-screen-2xl  container mx-auto px-4 md:px-20  mt-10 md:mt-20">
       <h1 className="text-3xl font-bold my-6">About</h1>
-      <p className="font-medium text-justify">Hello, I'm Sushmita Gupta, a self-motivated IT-professional and a passionate Frontend developer with a keen eye for React Js . I strive to create impactful and visually stunning Software solutions that leave a lasting impression.</p>
+      <p className="font-medium text-justify">Hello, I'm Sushmita Gupta, a self-motivated IT-professional and a passionate Frontend developer with a keen eye for React Js . I strive to create impactful and visually stunning Software solutions that leave a lasting impression.
+      I help business owners and busy web developers to design & develop creative websites that fits their vision and attracts the visitors to stay for ever.
+      </p>
       <div className="mt-4">
         <h1 className="text-2xl font-semibold text-green-600">Education & Training</h1>
         <p className="font-medium">BCA + MCA</p>

@@ -24,13 +24,14 @@ function Home() {
           loop={true}
         />
           </h1>
-        <p className="pt-6 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum error veritatis animi in natus optio culpa labore accusamus temporibus, cumque unde, voluptas tempore molestiae voluptate ducimus beatae omnis saepe. Quia aperiam officia reiciendis labore nobis pariatur omnis quas, facilis explicabo.</p>
+        <p className="pt-6 text-justify">Hello, I'm Sushmita Gupta, a self-motivated IT-professional and a passionate Frontend developer with a keen eye for React Js . I strive to create impactful and visually stunning Software solutions that leave a lasting impression.
+        I help business owners and busy web developers to design & develop creative websites that fits their vision and attracts the visitors to stay for ever.</p>
       </div>
       <div className="flex flex-col md:flex-row justify-between mt-8 space-y-6 md:space-y-0">
         <div className="font-bold ">
           <p className="text-center">Available On</p>
           <ul className="flex justify-center md:justify-between mt-2 text-2xl gap-6">
-        <li><a href="https://www.linkedin.com" target="_blank"><FaLinkedin /></a></li>
+        <li><a href="https://www.linkedin.com/in/sushmita-gupta-85bb8415a" target="_blank"><FaLinkedin /></a></li>
             <a href="https://www.facebook.com/" target="_blank"><li><FaFacebookSquare /></li></a>
            <a href="https://www.instagram.com/" target="_blank"> <li><FaInstagramSquare /></li></a>
            <a href="https://web.telegram.org/k/" target="_blank"> <li><FaTelegram /></li></a>

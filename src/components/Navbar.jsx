@@ -44,6 +44,7 @@ function Navbar() {
         activeClass="active">{text}</Link>
         </li>)}
       </ul>
+     
       <div className="md:hidden" onClick={()=>setmenu(!menu)}>
          {menu ? <IoClose size={24} />  :  <IoMenu size={24}/>}
     </div>
