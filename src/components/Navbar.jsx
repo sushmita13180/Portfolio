@@ -19,6 +19,10 @@ function Navbar() {
    },
    {
     id:4,
+    text:'Projects'
+   },
+   {
+    id:5,
     text:'Contact'
    }
   ];
