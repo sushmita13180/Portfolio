@@ -11,7 +11,8 @@ function Projects() {
           of user accounts, e-book listings.</p></li>
           <li className="mt-3">2)<a href="https://crypto-dashboard-weld-pi.vercel.app/" className="text-blue-600 underline text-2xl ">Crypto-Dashboard</a>
           <p>A cryptocurrency dashboard by using React.js, Router, HTML, Tailwind.</p></li>
-          <li className="mt-3">3)<a href="https://delicious-recipe-eight.vercel.app/" className="text-blue-600 underline text-2xl ">Best Responsive Page by using HTML and CSS.</a></li>
+          <li className="mt-3">3)<a href="https://delicious-recipe-eight.vercel.app/" className="text-blue-600 underline text-2xl "> Responsive Delicious-Recipe Page</a>
+          <p>Best Responsive page by using HTML and CSS.</p></li>
           <li className="mt-3">3)<a href="https://best-responsive-page-example-edr940fnd.vercel.app/" className="text-blue-600 underline text-2xl ">Responsive Page by using HTML and CSS.</a></li>
           <li className="mt-3">4)<a href="https://contact-page-orpin.vercel.app/" className="text-blue-600 underline text-2xl ">Contact Page Example</a></li>
           <li className="mt-3">5)<a href="https://front-page-ecru.vercel.app/" className="text-blue-600 underline text-2xl ">Front Page Example</a></li>
